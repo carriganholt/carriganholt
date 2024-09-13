@@ -4,7 +4,7 @@ Hi 👋 My name is Carrigan Holt
 Web Developer
 -------------
 
-*   🌍  I'm based in St. George, Utah
+*   🌍  I'm based in Syracuse, Utah
 *   ✉️  You can contact me at [carriganholt@gmail.com](mailto:carriganholt@gmail.com)
 ### Skills
 <p align="left">
