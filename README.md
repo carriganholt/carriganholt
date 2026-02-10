@@ -1,4 +1,4 @@
-Hi 👋 My name is Carrigan Holt
+Carrigan Holt
 ==============================
 
 Web Developer
